@@ -1,0 +1,3 @@
+2024-08-21 13:23:04,061 - DEBUG - Starting new HTTPS connection (1): mattermost.server.com.br:443
+2024-08-21 13:23:04,581 - INFO - Usuário example.test encontrado com sucesso
+2024-08-29 18:50:43,824 - ERROR - Erro ao buscar canais com o termo 'test-channel': Invalid URL 'None/channels': No scheme supplied. Perhaps you meant https://None/channels?
