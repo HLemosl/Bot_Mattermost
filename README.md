@@ -98,12 +98,14 @@ Isso criará o banco de dados auxiliar e a tabela necessária.
 
 ### 5\. Criação dos Channels
 
-É importante que o os canais dos projetos sejam criados antes, pois o script busca os canais específicos pelo nome do projeto.  
-  
-Exemplo:   
-  
-**Projeto:** example  
-**O script irá buscar o canal por:** project-example
+É importante que o os canais dos projetos sejam criados antes, pois o script busca os canais específicos pelo nome do projeto.
+
+Exemplo: 
+
+```plaintext
+Projeto: example
+O script irá buscar o canal por: project-example
+```
 
 Esse modo de busca pelo canal pode ser alterado no arquivo `bot.py`.
 
